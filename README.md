@@ -7,4 +7,4 @@ https://launchpad.net/~directhex/+archive/monoxide
 
 To build:
 
-    sudo docker build 
+    sudo docker build github.com/mikehadlow/ubuntu-monoxide-mono-devel 
